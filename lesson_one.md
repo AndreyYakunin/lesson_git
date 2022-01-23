@@ -29,11 +29,11 @@
 ## 3. Установка программного обеспечения для использования (СКВ) GIT
 
 
-- *Установка программы Visual Studio Code (VSC)* 
+![- *Установка программы Visual Studio Code (VSC)*](VSC_im.jpg)
 
 [Загрузка последней версии VSC с сайта](https://code.visualstudio.com/downloads)
 
-- *Установка Git*
+![- *- *Установка Git*](Git_im.jpg)
 
 [Загрузка последней версии Git с сайта](https://git-scm.com/downloads)
 
@@ -56,6 +56,7 @@
 3. Представляемся системе Git по средствам команд 
 * git config --global user.email "you@gmail.com" ("you@gmail.com" меняем на свой электронный адрес)
 * git config --global user.name "your name" (пишем свое имя или прозвище)
+
 
 Добавляем файл в репозиторий - git add .\имя_файла.расширение
 
